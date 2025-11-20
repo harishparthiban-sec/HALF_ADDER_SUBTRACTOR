@@ -65,3 +65,4 @@ Developed by: Harish P RegisterNumber: 25015017*/
 <img width="1029" height="270" alt="image" src="https://github.com/user-attachments/assets/b50d0411-e40a-47a2-8d35-419cf730bc0a" />
 
 **Result:**
+Thus a half adder and half subtractor circuit and its truth tables are studied and verified successfully in Quartus using Verilog programming 
